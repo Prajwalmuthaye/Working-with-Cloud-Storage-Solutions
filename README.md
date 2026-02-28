@@ -27,10 +27,10 @@ S3 Bucket (Object Storage for static/backup data)
 
 # Object Storage – Amazon S3
 Tasks Performed:
-Created an S3 bucket
-Uploaded files
-Downloaded files
-Configured bucket permissions
+1. Created an S3 bucket
+2. Uploaded files
+3. Downloaded files
+4. Configured bucket permissions
 
 # Commands Used (AWS CLI Example)
 ```
@@ -41,10 +41,10 @@ aws s3 ls s3://my-storage-bucket/
 
 # Block Storage – Amazon EBS
 Tasks Performed:
-Created EBS volume
-Attached volume to EC2
-Formatted the disk
-Mounted volume to directory
+1. Created EBS volume
+2. Attached volume to EC2
+3. Formatted the disk
+4. Mounted volume to directory
 
 Linux Commands Used
 ```
@@ -55,7 +55,7 @@ sudo mount /dev/xvdf /data
 
 # File Storage – Amazon EFS
 Tasks Performed:
-Created EFS file system
-Mounted to EC2 instance
-Shared files across instances
+1. Created EFS file system
+2. Mounted to EC2 instance
+3. Shared files across instances
 
