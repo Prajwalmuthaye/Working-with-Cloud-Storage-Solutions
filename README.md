@@ -15,7 +15,7 @@ The services explored include:
 # Amazon EC2
 
 Architecture Overview
-
+---
 EC2 Instance
 ⬇
 Attached EBS Volume (Block Storage)
@@ -23,6 +23,7 @@ Attached EBS Volume (Block Storage)
 Mounted EFS (File Storage)
 ⬇
 S3 Bucket (Object Storage for static/backup data)
+---
 
 # Object Storage – Amazon S3
 Tasks Performed:
