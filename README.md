@@ -38,6 +38,7 @@ aws s3 mb s3://my-storage-bucket
 aws s3 cp file.txt s3://my-storage-bucket/
 aws s3 ls s3://my-storage-bucket/
 ```
+<img width="1918" height="858" alt="image" src="https://github.com/user-attachments/assets/49aae6b4-e384-438d-930c-3abb592d1119" />
 
 # Block Storage – Amazon EBS
 Tasks Performed:
