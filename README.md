@@ -2,15 +2,15 @@
 
 This project demonstrates hands-on experience with different cloud storage services provided by Amazon Web Services (AWS). The objective was to understand the working, characteristics, and use cases of:
 
->Object Storage
->Block Storage
->File Storage
+:Object Storage
+:Block Storage
+:File Storage
 
 The services explored include:
 
->Amazon S3
->Amazon Elastic Block Store
->Amazon Elastic File System
+:Amazon S3
+:Amazon Elastic Block Store
+:Amazon Elastic File System
 
 # Amazon EC2
 
